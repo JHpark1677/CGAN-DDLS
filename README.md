@@ -1,4 +1,4 @@
-# CGAN-DDLS
+# CGAN+DDLS
 This repository is direct application of DDLS method to CGAN.
 
 DDLS Method is enhanced sampling method from latent space to increase generation quality.
