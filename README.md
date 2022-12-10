@@ -10,3 +10,6 @@ ACGAN implementation is further posted with DDLS method.
 Thanks.
 
 ltbljb1677@postech.ac.kr
+=> 
+(my changed email address, since 2022) 
+ltbljb1677@maxwell.snu.ac.kr
